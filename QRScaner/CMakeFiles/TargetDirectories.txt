@@ -1,0 +1,3 @@
+/home/kwon/opencv_ws/QRScaner/CMakeFiles/QRScanner.dir
+/home/kwon/opencv_ws/QRScaner/CMakeFiles/edit_cache.dir
+/home/kwon/opencv_ws/QRScaner/CMakeFiles/rebuild_cache.dir
